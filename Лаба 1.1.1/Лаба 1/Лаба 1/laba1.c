@@ -3,4 +3,4 @@
 void main()
 {
 	printf("Hello World!"); //правка
-}
+}//правка ещё
